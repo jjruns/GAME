@@ -141,7 +141,6 @@
     <custom-block blocktag="custom-24" blocktype="NORMAL" code="cast((~.say(&quot;Walking&quot;, &quot;_customBlock_AtMaxWalkingSpeed&quot;)), Bool)" desc="" global="false" gui="%0 At Max Walking Speed" id="24" message="AtMaxWalkingSpeed" name="AtMaxWalkingSpeed" oid="-1" return="BOOLEAN" shared="false" snippetID="12">
         <blank name="Self" order="0" type="ACTOR"/>
     </custom-block>
-    <custom-block blocktag="custom-7" blocktype="NORMAL" code="Boolean((~.say(&quot;Animation Manager&quot;, &quot;CategorySameAs&quot;, ~)))" desc="" global="false" gui="Current Category Same As %1" id="7" message="CategorySameAs" name="CategorySameAs" oid="-1" return="BOOLEAN" shared="false" snippetID="2">
         <blank name="Self" order="0" type="ACTOR"/>
         <blank name="CheckCategory" order="1" type="TEXT"/>
     </custom-block>
